@@ -1,9 +1,9 @@
 # Titty Rich Unlimited Money Printer ($TRUMP)
 
-Solana meme site with album + character generator UI (goonify-style), animated `$` rain, and pump.fun buy CTA (Coming Soon until CA is live).
+Solana meme site with album + character generator UI (goonify-style), animated `$` rain, and pump.fun buy CTA (pump.fun buy CTA).
 
 - Symbol: `TRUMP`
-- CA: `CommingSoon`
+- CA: `HHDG5RDzasVTtM5PxwgbegzKkouB9esAjhYWMMFapump`
 - Chain: Solana
 
 ## Local
