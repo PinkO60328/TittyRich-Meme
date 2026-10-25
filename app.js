@@ -124,8 +124,8 @@ async function loadSettings() {
 
     const x = document.querySelector('#xLink');
     const tg = document.querySelector('#tgLink');
-    if (x) x.href = s.community || s.twitter || 'https://x.com/';
-    if (tg) tg.href = s.telegram || 'https://t.me/';
+    if (x) x.href = s.community || s.twitter || 'https://x.com/TRUMoneyPrinter';
+    if (tg) tg.href = s.telegram || 'https://t.me/trumpofficialcommunity';
 
     applyBuyState(ca, s.dex);
 

@@ -26,9 +26,9 @@ module.exports = async function handler(req, res) {
     symbol: 'TRUMP',
     chain: 'Solana',
     ca,
-    community: process.env.TWITTER_URL || 'https://x.com/',
-    twitter: process.env.TWITTER_URL || 'https://x.com/',
-    telegram: process.env.TELEGRAM_URL || 'https://t.me/',
+    community: process.env.TWITTER_URL || 'https://x.com/TRUMoneyPrinter',
+    twitter: process.env.TWITTER_URL || 'https://x.com/TRUMoneyPrinter',
+    telegram: process.env.TELEGRAM_URL || 'https://t.me/trumpofficialcommunity',
     dex: isPlaceholder ? '' : (process.env.DEX_URL || `https://pump.fun/coin/${ca}`),
     options: defaultChoices
   });
