@@ -1,0 +1,9 @@
+{
+  "name": "tittyrich-meme",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Titty Rich Unlimited Money Printer ($TRUMP) — Solana meme site with goonify-style generator",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
