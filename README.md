@@ -3,7 +3,7 @@
 Solana meme site with album + character generator UI (goonify-style), animated `$` rain, and pump.fun buy CTA (pump.fun buy CTA).
 
 - Symbol: `TRUMP`
-- CA: `HHDG5RDzasVTtM5PxwgbegzKkouB9esAjhYWMMFapump`
+- CA: `CommingSoon`
 - Chain: Solana
 
 ## Local

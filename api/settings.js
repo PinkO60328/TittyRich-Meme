@@ -18,7 +18,7 @@ module.exports = async function handler(req, res) {
     return;
   }
 
-  const ca = process.env.TOKEN_CA || 'HHDG5RDzasVTtM5PxwgbegzKkouB9esAjhYWMMFapump';
+  const ca = process.env.TOKEN_CA || 'CommingSoon';
   const isPlaceholder = /^comm?ing\s*soon$/i.test(String(ca).trim()) || String(ca).trim().toLowerCase() === 'comingsoon';
 
   res.status(200).json({
